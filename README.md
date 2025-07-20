@@ -1,3 +1,6 @@
+## 1 Dashboard 
+## 2 
+
 ## 💳 Credit Card Dashboard Analysis
 
 An end-to-end credit card analytics project using SQL and Power BI to track weekly and YTD performance, customer behavior, and revenue trends.
