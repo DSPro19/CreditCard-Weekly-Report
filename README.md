@@ -1,5 +1,5 @@
-## 1 Dashboard 
-## 2 
+## File 1- Full Report
+## File 4- SQL Queries
 
 ## 💳 Credit Card Dashboard Analysis
 
