@@ -14,6 +14,6 @@ An end-to-end credit card analytics project using SQL and Power BI to track week
 
 ### 🛠 Tools Used
 
-* **SQL** – for data ingestion, updates, and backend logic
-* **Power BI** – for dashboarding and visual insights
-* **Excel** – for initial data formatting
+* **SQL** – for data ingestion, updates, and backend logic.
+* **Power BI** – for dashboarding and visual insights.
+* **Excel** – for initial data formatting.
